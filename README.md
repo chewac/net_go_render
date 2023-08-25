@@ -2,9 +2,17 @@
 
 
 
-## Go backend + CSS + Js + HTML 
+
+## Go backend + CSS + JS + HTML 
 
 
 
 
 # https://go-rend.onrender.com/
+
+
+
+
+
+
+# https://thesis-antithesis-synthesis.chewac.repl.co/
